@@ -1,0 +1,1 @@
+![Ram sort comparison against Merge sort](/ram_sort_comparison.png)
